@@ -1,2 +1,0 @@
-# MintPage
-PixelDoges mint page
